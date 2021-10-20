@@ -1,0 +1,127 @@
+roadrigo_app:
+user: "evan",
+pass: ali@A@Aali@A@A
+
+*jexia
+Project login:  jexia@go-dart.com    qrfAQ?2A*$
+project id: 033598f1-bb36-489a-98a3-ef7e761db89e
+ secret key:
+x9idQmsTalzHj625EKBJwoQa8FsA7wwSZ33kLowY/K1W+HFJbLwz7XdALrLA+FbmXt0WDH6Jn61M3qIgTkcPBQ==
+
+api key:ea5892f7-c679-4a98-85ce-c117a8ab31e8
+
+
+*laravel kingpin(cpanel info)
+
+Testing server: https://ded4574.inmotionhosting.com:2083/
+kingpintest
+Paulweidman2020!
+testing.kingpin.pro
+
+*Production server: https://ded4574.inmotionhosting.com:2083/
+kingpin
+Paulweidman2020!
+kingpin.pro
+bitbucket:
+neil@kingpin.pro
+Paulweidman2020!
+
+*AWS account ID: 431240572300
+AWS Region name: us-east-1
+Certificate identifier: arn:aws:acm:us-east-1:431240572300:certificate/f21aceb8-2834-4c64-a924-c873abf42e77
+
+------laravel e-learning-------
+*hostinger(napu.site):client-Jake M
+https://hpanel.hostinger.com/  kkasdemyd@gmail.com  ProBook!@#123
+
+-napu.site server info
+hostinger.com
+kharrisbsu@gmail.com   Maine101#
+-https://paratuscourses.com/ server info
+https://hpanel.hostinger.com/auth?ip=98.229.123.28&hash=d3994894f1a63da40de50fb739a2d308b75d5fb1&fallback=https%3A%2F%2Fcpanel.hostinger.com%2Fauth
+paratusedu@gmail.com    Maine101##
+ 	
+
+*python learning
+
+GUI:
+https://www.instructables.com/How-to-Make-Your-First-Simple-Software-Using-Pytho/
+
+*flutter app + backend(admin panel)
+
+-cpanel:
+	Plesk Panel
+	https://yallaerbil.com:8443
+	Username: yallaerb
+	Password: Uvd76&u9
+-backend:(laravel)
+	https://yallaerbil.com/
+	email:Admin@admin.com
+	pass:Password
+-flutter app: D:/yalla(1).zip
+
+*python bot
+	email-check: https://xitroo.com/
+		     https://temp-mail.org/
+	phone-check: https://5sim.net/
+		     https://sms24.me/
+		     https://freephonenum.com/
+		     https://receive-smss.com/
+		     https://receive-sms-free.cc/
+*virtual card: https://privacy.com/
+
+*https://www.blackhatworld.com/
+
+phillips:
+
+Wordpress Login: 
+Link: flipsanddeals.com/wp-admin/
+Email: flipsanddeals@gmail.com
+Password: Waters714
+
+
+*wordpress+market(web + flutter app)emanuel philllips
+-site
+Wordpress Login: 
+Link: flipsanddeals.com/wp-admin/
+Email: flipsanddeals@gmail.com
+Password: Waters714
+-cpanel info
+https://onevelox.com.br:2083/cpsess6127293630/frontend/paper_lantern/filemanager/index.html
+LOGIN : vivsvps	
+SENHA : Wesley1207!
+SITE : wpmarketing.com.br
+login : teste20@gmail.com
+SENHA : teste
+-flutter app
+phillips/source
+
+youtube downloader:
+ https://yt1s.com/en1
+website example sort:
+	https://trends.builtwith.com/
+
+-laravel command
+php artisan migrate:reset
+
+-----apple store id
+jhnthompson70@gmail.com
+pepperPepper1!
+
+------big data----
+https://data.world/   Mike S.
+
+------online mobile app testing service----
+https://www.diawi.com/
+
+-------slack group------
+https://slofile.com/
+
+----- file upload-------
+https://www.sendgb.com/
+
+----------my ngrok command-----
+ngrok authtoken 1y9DwJ6Yh9eJvJ6vWFAhZfpi4Gf_5TVXj4gFdUn6zM7S5Dw7f
+
+---------freelancer my ticket view---------
+footer---get support/my ticket history
